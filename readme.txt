@@ -11,7 +11,7 @@ Needle Nerds.
 http://www.NeedleNerds.com
 
 They provided this file for us, it is based on the open-source hardware logo:
-http://oshwlogo.com/
+http://www.oshwa.org/open-source-hardware-logo/
 
 License: Creative commons, attribution, share-alike…
  

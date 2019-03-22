@@ -1,6 +1,6 @@
 # open-source hardware badge embroidery file.
 
-<img src="./logo.png?raw=true" width="500px">
+<a href="https://www.adafruit.com/product/477"><img src="./assets/image.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
 
 Made for:
 
